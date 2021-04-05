@@ -1,3 +1,5 @@
+# Це переклад посібника з обробки даних ПЗЗ та зоряної фотометрії. 
+
 # A guide to CCD data reduction and stellar photometry using astropy and affiliated packages
 
 The inspiration for this work is two guides and a book:
