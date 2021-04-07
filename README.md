@@ -11,6 +11,6 @@ The inspiration for this work is two guides and a book:
 
 The rendered version of the guide is [here](https://mwcraig.github.io/ccd-as-book/00-00-Preface).
 
-## Try out the notebooks in the cloud: click the button below
+## Ви можете спробувати цю версію посібника у своєму браузері! Тисніть на кнопку нижче:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/astropy/ccd-reduction-and-photometry-guide/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bazarsen/ccd-reduction-and-photometry-guide/HEAD)
